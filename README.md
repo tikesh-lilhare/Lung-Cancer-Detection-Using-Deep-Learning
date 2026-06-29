@@ -5,7 +5,7 @@
 Lung cancer is one of the leading causes of cancer-related deaths worldwide. Detecting the disease at an early stage significantly improves survival rates. Manual examination of CT scan images is time-consuming and depends heavily on the expertise of radiologists.This project presents a Deep Learning-based Lung Cancer Detection System that automatically classifies CT scan images into Cancerous and Normal classes using a Convolutional Neural Network (CNN).To evaluate the effectiveness of Deep Learning, the project also compares the CNN model with several traditional Machine Learning classification algorithms.The final trained model is integrated into a Streamlit web application, allowing users to upload CT scan images and receive instant predictions.
 
 🎯 Objectives:
-Detect lung cancer at an early stage.
+Detect lung cancer at an early stage , /n
 Automate CT scan image classification.
 Compare Deep Learning with traditional Machine Learning algorithms.
 Assist healthcare professionals with AI-assisted diagnosis.
