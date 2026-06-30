@@ -76,6 +76,11 @@ The CNN model successfully classifies Lung CT Scan images into:
 - 🔴 Cancerous
 Compared with traditional Machine Learning algorithms, the CNN model demonstrates superior performance in learning complex image features directly from CT scan images.
 
+---
+## Working Pipeline
+<img width="1024" height="1536" alt="ChatGPT Image Jun 30, 2026, 07_05_28 PM" src="https://github.com/user-attachments/assets/cf7a5b77-2229-46a1-8a82-41d5a80d4a96" />
+
+---
 ## 📷 Application Preview
 ## Detection Using Machine Learning
   <img width="1217" height="772" alt="Screenshot 2026-06-30 185242" src="https://github.com/user-attachments/assets/dd9be456-36c8-4e23-970c-0e2d322a3179" />
