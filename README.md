@@ -77,3 +77,22 @@ The CNN model successfully classifies Lung CT Scan images into:
 Compared with traditional Machine Learning algorithms, the CNN model demonstrates superior performance in learning complex image features directly from CT scan images.
 
 ## 📷 Application Preview
+## Detection Using Machine Learning
+  <img width="1217" height="772" alt="Screenshot 2026-06-30 185242" src="https://github.com/user-attachments/assets/dd9be456-36c8-4e23-970c-0e2d322a3179" />
+
+---
+
+<img width="1346" height="763" alt="Screenshot 2026-06-30 185259" src="https://github.com/user-attachments/assets/7efb00e6-c401-4666-aa98-bd7f503becae" />
+<img width="1403" height="827" alt="Screenshot 2026-06-30 185509" src="https://github.com/user-attachments/assets/acd8a709-5ecc-475d-a8be-dd43e30003fd" />
+
+---
+## Detection Using CNN
+<img width="1245" height="520" alt="Screenshot 2026-06-30 185322" src="https://github.com/user-attachments/assets/4f9eec0d-60c6-4b99-b39f-067b22fbf44a" />
+<img width="1392" height="853" alt="Screenshot 2026-06-30 185353" src="https://github.com/user-attachments/assets/6d6b82fc-3eec-41c6-866d-50e02105ad31" />
+<img width="1121" height="537" alt="Screenshot 2026-06-30 185410" src="https://github.com/user-attachments/assets/29397f88-a6f6-4f69-8f06-b3e8ba7824ef" />
+<img width="1338" height="830" alt="Screenshot 2026-06-30 185615" src="https://github.com/user-attachments/assets/ae4ba06f-8865-40dc-9248-f357125ab807" />
+
+
+
+
+
