@@ -92,7 +92,29 @@ Compared with traditional Machine Learning algorithms, the CNN model demonstrate
 <img width="1121" height="537" alt="Screenshot 2026-06-30 185410" src="https://github.com/user-attachments/assets/29397f88-a6f6-4f69-8f06-b3e8ba7824ef" />
 <img width="1338" height="830" alt="Screenshot 2026-06-30 185615" src="https://github.com/user-attachments/assets/ae4ba06f-8865-40dc-9248-f357125ab807" />
 
+---
 
+## 🚀 Installation
+
+## Clone the repository
+
+- git clone https://github.com/tikesh-lilhare/Lung-Cancer-Detection-Using-Deep-Learning.git
+
+## Move to project directory
+
+- cd Lung-Cancer-Detection-Using-Deep-Learning
+
+## Install dependencies
+
+- pip install -r requirements.txt
+
+## Run Streamlit Application
+
+- streamlit run app.py
+
+## Open Browser
+
+- http://localhost:8501
 
 
 
